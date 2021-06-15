@@ -1,0 +1,26 @@
+body
+{
+  background-color: rgb(253, 253, 253) ;
+}
+u
+{
+  text-align: center;
+  font-size: 50px;
+  /* font-size: 40px; */
+  color: coral;
+}
+.first
+{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  padding:3% 3% ;
+}
+a
+{
+  padding: 1% 1%;
+}
+img
+{
+    width: 100%;
+}
